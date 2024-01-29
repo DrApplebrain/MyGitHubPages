@@ -1,0 +1,51 @@
+:root{
+    font-size: 62.5%;
+}
+
+html, 
+body,
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: rgb(255, 243, 228);
+}
+
+
+
+nav{
+    margin: 1rem 0 0 2rem;
+    font-size: 2rem;
+}
+
+h1{
+    font-size: 2rem;
+    margin: 1rem 0 0 2rem;
+}
+
+.card{
+    border: 2px solid gray;
+    display: grid;
+    margin: 1rem 0 0 2rem;
+    width: 80%;
+    font-size: 3rem;
+    background-color: rgb(182, 182, 182);
+
+}
+
+
+img{
+    width: 100%;
+    height: 500px;
+}
+
+p{
+    color: rgb(0, 0, 49);
+    font-size: 1.5rem;
+    background-color: rgb(80, 80, 80);
+    
+}
